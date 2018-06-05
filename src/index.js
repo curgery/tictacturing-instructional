@@ -7,6 +7,5 @@ ReactDOM.render(
 <Router 
     history={browserHistory}
     routes={Routes}
-
 />,
 document.getElementById('root'));
