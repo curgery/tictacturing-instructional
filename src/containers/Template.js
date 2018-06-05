@@ -14,7 +14,7 @@ class Template extends Component {
         <div>
           <NavDrawer/>
           <Header>
-            TicTacTuring
+            RLG LLC
           </Header>
           <Main>
             {this.props.children}

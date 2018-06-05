@@ -38,7 +38,8 @@ class NavDrawer extends Component {
                 backgroundColor: 'salmon'
               }}
             >
-              LoginContainer
+              RLG & Associates, LLC <p/>
+              Login
             </div>
             <Divider/>
             <Link
