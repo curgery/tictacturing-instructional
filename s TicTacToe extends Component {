@@ -1,0 +1,59 @@
+[33mcommit a0eb5564a6c95a4053fbbb53288cc0d6b48b430c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 18:15:38 2018 -0400
+
+    final working prototype with functioning artificial intelligence
+
+[33mcommit 90d5b754cfb4eb10bf382929812c32ea3a18ae42[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 16:17:14 2018 -0400
+
+    rendering square functionality, refer to console...
+
+[33mcommit 638610cfe1e1bc0f65d7384cbd51fee0b89f3f06[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 14:00:39 2018 -0400
+
+    completed TicTacToe board and squares
+
+[33mcommit 09911b9b679a7e034f2e6d2af71eb1477125f203[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 12:45:32 2018 -0400
+
+    modified changes to make app mobile presentation friendly
+
+[33mcommit 06872419e3f34d92002674b308d045f20ce509e0[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 12:19:13 2018 -0400
+
+    toggling & floating action button functionality
+
+[33mcommit 43de5a71e532d9b37d0a848103c9317dabf7bb58[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Tue Jun 5 10:51:13 2018 -0400
+
+    set working raised button
+
+[33mcommit 8ae0e391f146345a08e2e78a366a5e831c5a8bb5[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Mon Jun 4 11:20:33 2018 -0400
+
+    Routes set up at this point
+
+[33mcommit 08a32d30bf5bf2ad744b86de08a52d2c60fa7ade[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Mon Jun 4 10:24:13 2018 -0400
+
+    just the initial set up
+
+[33mcommit 92dfa3915fa882c50fac3d887ad2c095fa92172e[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Mon Jun 4 10:03:05 2018 -0400
+
+    updated the favicon.ico
+
+[33mcommit c4106dd402c070badc1c774e3eea0388f3537319[m
+Author: curgery <androidgeek54@gmail.com>
+Date:   Mon Jun 4 09:48:23 2018 -0400
+
+    first commit
