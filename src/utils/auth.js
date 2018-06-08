@@ -1,6 +1,6 @@
 import Auth0Lock from 'auth0-lock'
-const authDomain = 'rlgassociates.auth0.com'
-const clientId = '5b17e6bc157859716f2c94a1'
+const authDomain = 'rlgassociatesllc.auth0.com'
+const clientId = 'YffCdSDzNvstDQqsIgL5LijP2JajTOnm'
 
 
 class AuthService {
@@ -19,7 +19,7 @@ class AuthService {
     }
 
     authProcess = (authResult) => {
-        console.log(Result)
+        console.log(auth)
     }
 
     showLock() {
@@ -65,7 +65,7 @@ class AuthService {
     logout = () => {
         localStorage.removeItem('idToken')
         localStorage.removeItem('exp')
-        location.reload() // 'location' is provided by the browser, reload simply states "refresh the page".
+        // location.reload() // location is provided by the browser, reload simply states "refresh the page".
         
     }
 }
