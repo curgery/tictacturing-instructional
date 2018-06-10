@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import {Stage} from 'react-konva'
 import {Board, Squares} from '../styled/TicTacToe'
 import Relay from 'react-relay/classic'
+import TuringTest from '../styled/TuringTest'
 
 
 class TicTacToe extends Component {
@@ -110,10 +111,17 @@ class TicTacToe extends Component {
   }
 
   turingTest = () => {
-
+    if (this.state.gameOver) {
+      return (
+        <TuringTest
+          recordGame={this.recordGame}
+        />
+      )
+    }
   }
 
-  recordGame = () => {
+  recordGame = (guess) => {
+    console.log(guess)
 
   }
 
@@ -150,7 +158,8 @@ class TicTacToe extends Component {
             ownMark={ownMark}
             move={this.move}
            />        
-        </Stage>        
+        </Stage> 
+        {this.turingTest()}       
       </div>
     )
   }
